@@ -35,8 +35,7 @@ To run this project locally, follow these steps:
 5. **Database Connection**: If needed, update the database connection settings in the `includes/config.php` file to match your local database credentials (username: `root`, password: `""` by default on XAMPP).
 6. **Run the Project**: Open your web browser and navigate to `http://localhost/Travixo/index.php`.
 
-## Screenshots
-*(Add screenshots of your project here to make it visually appealing for recruiters! Examples: Homepage, Admin Dashboard, Package Listing)*
+
 
 ## Contact
-Developed by Hitul and Group 12.
+Developed by Hitesh Limbachiya.
